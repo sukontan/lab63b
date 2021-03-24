@@ -22,7 +22,7 @@
   * iotset1 https://youtu.be/9aF0upI9Gic
   * run example 1 https://youtu.be/NLIUsWLEpmg
 ### ซอสโค้ด
-ซอสโค้ดของการทดลองที่3 https://github.com/choompol-boonmee/lab63b/tree/master/examples/02_Scan-Wifi
+ซอสโค้ดของการทดลองที่3 https://github.com/choompol-boonmee/lab63b/tree/master/examples/03_Output-Port
 
 ## วิธีทำการทดลอง
 1. ต่อadapterเข้ากับUSB 2 serial และต่อกับmicrocontrollor

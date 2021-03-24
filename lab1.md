@@ -22,7 +22,7 @@
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port
-[url=https://imgbb.com/][img]https://i.ibb.co/bgFH6vN/4-CBD806-E-C6-CE-42-C4-A713-E0-D293-E1372-F.jpg[/img][/url]
+https://i.ibb.co/bgFH6vN/4-CBD806-E-C6-CE-42-C4-A713-E0-D293-E1372-F.jpg
 
 2. upload โปรแกรมเข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
 

@@ -39,7 +39,7 @@
 
 ## บันทึกผลการทดลอง
 
-![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+![Imgur](https://imgur.com/iptkwpw.jpg)
 
 ## อภิปรายผลการทดลอง
 
@@ -48,4 +48,5 @@
 
 ## คำถามท้ายการทดลอง
 คำถาม:ถ้าoutputที่port0เป็น0 ledจะติดหรือไม่
-* ไม่ติด
+
+ตอบ:ไม่ติด

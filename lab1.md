@@ -22,6 +22,7 @@
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port
+
 ![Imgur](https://imgur.com/TVfw2Hb.jpg)
 
 

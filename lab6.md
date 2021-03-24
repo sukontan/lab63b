@@ -17,7 +17,7 @@
   * program lang https://youtu.be/TrZzCv0kVUM
   * platformio https://youtu.be/APdBR37Ukxg
   * iotset1 https://youtu.be/9aF0upI9Gic
-  * run example 1 https://youtu.be/NLIUsWLEpmg
+  * run wifi AP https://youtu.be/T26DVHePlTs
 ### ซอสโค้ด
 ซอสโค้ดของการทดลองที่6 https://github.com/choompol-boonmee/lab63b/tree/master/examples/06_Wifi-AP-Web-Server
 

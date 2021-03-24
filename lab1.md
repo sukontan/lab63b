@@ -33,7 +33,8 @@
 
 ## บันทึกผลการทดลอง
 
-![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+ก่อนกดปุ่มสีดำและแดง
+![Imgur](https://imgur.com/6KF6NtS.jpg)
 
 ## อภิปรายผลการทดลอง
 

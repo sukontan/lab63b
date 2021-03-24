@@ -19,7 +19,7 @@
   * iotset1 https://youtu.be/9aF0upI9Gic
   * run example 1 https://youtu.be/NLIUsWLEpmg
 ### ซอสโค้ด
-ซอสโค้ดของการทดลองที่6
+ซอสโค้ดของการทดลองที่6 https://github.com/choompol-boonmee/lab63b/tree/master/examples/06_Wifi-AP-Web-Server
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port

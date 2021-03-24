@@ -29,13 +29,15 @@
 
 ## วิธีทำการทดลอง
 1. ต่อadapterเข้ากับUSB 2 serial และต่อกับmicrocontrollo
-![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+
 
 2. upload โปรแกรมเข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
 
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่
 
 4. รันคำสั่ง pio device monitor เพื่อดูผลลัพท์ที่แสดงผลออกมาจากคอมพิวเตอร์
+
+![Imgur](https://imgur.com/mSkHF8d.jpg)
 
 5. นำport0 ต่อกับสายสีดำ บันทึกผลการทดลอง
 

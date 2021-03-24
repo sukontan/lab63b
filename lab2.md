@@ -36,7 +36,7 @@
 
 ## บันทึกผลการทดลอง
 
-![Imgur](https://imgur.com/LTywR51)
+![Imgur](https://imgur.com/LTywR51.jpg)
 
 ## อภิปรายผลการทดลอง   
 

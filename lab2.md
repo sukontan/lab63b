@@ -16,7 +16,7 @@
   * program lang https://youtu.be/TrZzCv0kVUM
   * platformio https://youtu.be/APdBR37Ukxg
   * iotset1 https://youtu.be/9aF0upI9Gic
-  * run example 1 https://youtu.be/NLIUsWLEpmg
+  * run example 2 https://youtu.be/yBjab0UNuB8
 
 ### ซอสโค้ด
 ซอสโค้ดของการทดลองที่2 https://github.com/choompol-boonmee/lab63b/tree/master/examples/02_Scan-Wifi

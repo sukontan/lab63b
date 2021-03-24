@@ -31,14 +31,21 @@
 
 ในที่นี้กำหนดชื่อwifiเป็นTUENG-ESP-WIFI เเละกำหนดpassword เป็นchoompol
 
+![Imgur](https://imgur.com/undefined.jpg)
+
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่
 
 4. รันคำสั่ง pio device monitor เพื่อดูผลลัพท์ที่แสดงผลออกมาจากคอมพิวเตอร์
+
+![Imgur](https://imgur.com/FvTbQoB.jpg)
+
 5. ใช้โทรศัพท์มือถือเพื่อค้นหาไวไฟ
 
 ## บันทึกผลการทดลอง
 
 ค้นหาไวไฟ
+
+![Imgur](https://imgur.com/g8GZ491.jpg)
 
 ## อภิปรายผลการทดลอง
 

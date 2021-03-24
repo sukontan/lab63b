@@ -9,7 +9,17 @@
 * USB
 
 ## ศึกษาข้อมูลเบื้องต้น
-http://github.com - automatic! [GitHub](http://github.com)
+  * digital https://youtu.be/8ErQEAMUAlQ 
+  * voltage https://youtu.be/ZsGuyLhPhbM
+  * computer https://youtu.be/9s2qB71o3Xc
+  * internet https://youtu.be/pSAqgVDv8xU
+  * program lang https://youtu.be/TrZzCv0kVUM
+  * platformio https://youtu.be/APdBR37Ukxg
+  * iotset1 https://youtu.be/9aF0upI9Gic
+  * run example 1 https://youtu.be/NLIUsWLEpmg
+
+### ซอสโค้ด
+ซอสโค้ดของการทดลองที่2 https://github.com/choompol-boonmee/lab63b/tree/master/examples/02_Scan-Wifi
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port

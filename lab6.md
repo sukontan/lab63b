@@ -31,7 +31,7 @@
 
 ในที่นี้กำหนดชื่อwifiเป็นTUENG-ESP-WIFI เเละกำหนดpassword เป็นchoompol
 
-![Imgur](https://imgur.com/undefined.jpg)
+![Imgur](https://imgur.com/HF6lOM0.jpg)
 
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่
 

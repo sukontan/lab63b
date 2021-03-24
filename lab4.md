@@ -25,7 +25,7 @@
   * run example 1 https://youtu.be/NLIUsWLEpmg
 ### ซอสโค้ด
 
-ซอสโค้ดการทดลองที่4 https://github.com/choompol-boonmee/lab63b/tree/master/examples/02_Scan-Wifi
+ซอสโค้ดการทดลองที่4 https://github.com/choompol-boonmee/lab63b/tree/master/examples/04_Input-Port
 
 ## วิธีทำการทดลอง
 1. ต่อadapterเข้ากับUSB 2 serial และต่อกับmicrocontrollo

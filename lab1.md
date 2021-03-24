@@ -9,19 +9,28 @@
 * USB
 
 ## ศึกษาข้อมูลเบื้องต้น
-http://github.com - automatic! [GitHub](http://github.com)
+  * digital https://youtu.be/8ErQEAMUAlQ 
+  * voltage https://youtu.be/ZsGuyLhPhbM
+  * computer https://youtu.be/9s2qB71o3Xc
+  * internet https://youtu.be/pSAqgVDv8xU
+  * program lang https://youtu.be/TrZzCv0kVUM
+  * platformio https://youtu.be/APdBR37Ukxg
+  * iotset1 https://youtu.be/9aF0upI9Gic
+  * run example 1 https://youtu.be/NLIUsWLEpmg
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port
 ![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
 
-2. upload โปรแกรมserial moniter เข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
+2. upload โปรแกรมเข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
 
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่
 
 4.รันคำสั่ง pio device monitor เพื่อดูผลลัพท์ที่แสดงผลออกมาจากคอมพิวเตอร์
 
 ## บันทึกผลการทดลอง
+
+![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
 
 ## อภิปรายผลการทดลอง
 

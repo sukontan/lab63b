@@ -49,7 +49,9 @@
 
 ## บันทึกผลการทดลอง
 
-![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+port0ต่อกับสายดำ
+
+![Imgur](https://imgur.com/yYyoLuK.jpg)
 
 ## อภิปรายผลการทดลอง
 

@@ -15,7 +15,7 @@ http://github.com - automatic! [GitHub](http://github.com)
 1. ต่อmicrocontrollerเข้าทางserial port
 ![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
 
-2. upload โปรแกรมserial moniter เข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
+2. upload โปรแกรมscan wifi เข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
 
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่ปปป
 

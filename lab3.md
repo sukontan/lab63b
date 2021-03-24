@@ -20,7 +20,7 @@
   * program lang https://youtu.be/TrZzCv0kVUM
   * platformio https://youtu.be/APdBR37Ukxg
   * iotset1 https://youtu.be/9aF0upI9Gic
-  * run example 1 https://youtu.be/NLIUsWLEpmg
+  * run example 3 https://youtu.be/CCnN1WJsXQY
 ### ซอสโค้ด
 ซอสโค้ดของการทดลองที่3 https://github.com/choompol-boonmee/lab63b/tree/master/examples/03_Output-Port
 

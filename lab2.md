@@ -23,7 +23,8 @@
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port
-![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+
+![Imgur](https://imgur.com/TVfw2Hb.jpg)
 
 2. upload โปรแกรมscan wifi เข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
 

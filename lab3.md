@@ -26,9 +26,10 @@
 
 ## วิธีทำการทดลอง
 1. ต่อadapterเข้ากับUSB 2 serial และต่อกับmicrocontrollor
-![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
 
 2. upload โปรแกรมoutput port เข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
+
+![Imgur](https://imgur.com/AQXgRRK.jpg)
 
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่
 

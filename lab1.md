@@ -17,6 +17,8 @@
   * platformio https://youtu.be/APdBR37Ukxg
   * iotset1 https://youtu.be/9aF0upI9Gic
   * run example 1 https://youtu.be/NLIUsWLEpmg
+### ซอสโค้ด
+ซอสโค้ดของการทดลองที่1 https://github.com/choompol-boonmee/lab63b/tree/master/examples/01_Serial-Monitor
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port
@@ -26,7 +28,7 @@
 
 3. กดปุ่มสีดำเเละแดง เพื่อให้รับโปรแกรมใหม่
 
-4.รันคำสั่ง pio device monitor เพื่อดูผลลัพท์ที่แสดงผลออกมาจากคอมพิวเตอร์
+4. รันคำสั่ง pio device monitor เพื่อดูผลลัพท์ที่แสดงผลออกมาจากคอมพิวเตอร์
 
 ## บันทึกผลการทดลอง
 

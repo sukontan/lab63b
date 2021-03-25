@@ -26,7 +26,7 @@
 ![Imgur](https://imgur.com/TVfw2Hb.jpg)
 
 
-2. ใส่ชื่อwifi HI_BMFWIFI.24Gพร้อมรหัสในซอสโค้ด
+2. ใส่ชื่อwifi HI_BMFWIFI2.4Gพร้อมรหัสในซอสโค้ด
 
 upload โปรแกรมเข้าไปยังmicrocontrollerโดยคำสั่ง  pip run -t upload
 

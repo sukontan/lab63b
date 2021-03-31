@@ -22,7 +22,7 @@
   * iotset1 https://youtu.be/9aF0upI9Gic
   
 ### ซอสโค้ด
-ซอสโค้ดของการทดลองที่7 
+ซอสโค้ดของการทดลองที่7 ![Imgur](https://imgur.com/NZaWt7d.jpg)
 
 ## วิธีทำการทดลอง
 1. ต่อmicrocontrollerเข้าทางserial port
@@ -38,12 +38,7 @@
 
 ## บันทึกผลการทดลอง
 
-ก่อนกดปุ่มสีดำและแดง
-![Imgur](https://imgur.com/6KF6NtS.jpg)
-
-หลังกดปุ่มสีดำและเเดง
-
-![Imgur](https://imgur.com/qLaOMgx.jpg)
+[Imgur](https://imgur.com/NZaWt7d.jpg)
 
 ## อภิปรายผลการทดลอง
 * จากการทดลองเมื่อกดปุ่มเพื่อreset cntจะนับเพิ่มทีละ1 ถ้าcnt=30 โปรแกรมส่งoutputออกมาที่port0เเละเมื่อต่อกับledเปล่งเเสง เมื่อมีการส่งHIGH ledจะสว่างเนื่องจากโปรแกรมset port0เป็นoutput โดยสว่างเป็นเวลา30วินาที 
